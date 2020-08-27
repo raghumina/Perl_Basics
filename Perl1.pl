@@ -14,3 +14,13 @@ for ($row; $row = <NEW>; $row ++) {
 	
 	chomp($row);
 	
+
+#!/usr/local/bin/perl
+ 
+$a = 10;
+
+# while loop execution
+while( $a < 20 ) {
+   printf "Value of a: $a\n";
+   $a = $a + 1;
+}
