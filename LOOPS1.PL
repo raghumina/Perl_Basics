@@ -63,3 +63,11 @@ do{
    printf "Value of a: $a\n";
    $a = $a + 1;
 }while( $a < 20 );
+
+
+
+#
+#
+# perl nested loops  
+# loop inside a loop 
+# 
